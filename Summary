@@ -1,0 +1,26 @@
+# SafeVault Security Project
+
+## Overview
+This project secures an application using input validation, authentication, and protection against vulnerabilities.
+
+## Vulnerabilities Found
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- Weak input validation
+
+## Fixes Applied
+- Used parameterized queries
+- Encoded user input
+- Added validation rules
+
+## Authentication
+- Login system implemented
+- Role-Based Access Control (Admin/User)
+
+## Testing
+- Tested input validation
+- Tested SQL injection prevention
+- Tested XSS protection
+
+## Use of Copilot
+Copilot helped generate secure code, suggest fixes, and improve debugging.
